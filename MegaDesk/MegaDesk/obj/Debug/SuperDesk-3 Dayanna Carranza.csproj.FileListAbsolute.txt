@@ -1,0 +1,22 @@
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MegaDesk-3-Dayana-Carranza.exe.config
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MegaDesk-3-Dayana-Carranza.exe
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MegaDesk-3-Dayana-Carranza.pdb
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SuperDesk-3 Dayanna Carranza.csprojAssemblyReference.cache
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MegaDesk.Properties.Resources.resources
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SuperDesk-3 Dayanna Carranza.csproj.GenerateResource.cache
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SuperDesk-3 Dayanna Carranza.csproj.CoreCompileInputs.cache
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MegaDesk-3-Dayana-Carranza.exe
+C:\Users\VMPC\Desktop\CIT366\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MegaDesk-3-Dayana-Carranza.pdb
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\SuperDesk-3 Dayanna Carranza.csprojAssemblyReference.cache
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk.Properties.Resources.resources
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\SuperDesk-3 Dayanna Carranza.csproj.GenerateResource.cache
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\SuperDesk-3 Dayanna Carranza.csproj.CoreCompileInputs.cache
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\bin\Debug\MegaDesk-3-Dayana-Carranza.exe.config
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\bin\Debug\MegaDesk-3-Dayana-Carranza.exe
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\bin\Debug\MegaDesk-3-Dayana-Carranza.pdb
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk-3-Dayana-Carranza.exe
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk-3-Dayana-Carranza.pdb
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk.AddQuote.resources
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk.MainMenu.resources
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk.SearchQuotes.resources
+C:\Users\VMPC\Desktop\CIT366\MegaDesk\MegaDesk\obj\Debug\MegaDesk.ViewAllQuotes.resources
